@@ -27,7 +27,7 @@ return {
     opts = {
       ensure_installed = {
         "bash",
-        "help",
+        "vimdoc",
         "html",
         "javascript",
         "json",
@@ -45,7 +45,7 @@ return {
         "gosum",
         "gomod",
         "gowork",
-        "rust"
+        "rust",
       },
     },
   },
